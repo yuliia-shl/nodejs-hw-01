@@ -13,11 +13,14 @@
     "remove-all": "node src/scripts/removeAllContacts.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Yuli",
   "license": "ISC",
   "devDependencies": {
-    "@eslint/js": "^9.2.0",
-    "eslint": "^9.2.0",
-    "globals": "^15.1.0"
+    "@eslint/js": "^9.18.0",
+    "@faker-js/faker": "^9.3.0",
+    "eslint": "^9.18.0",
+    "globals": "^15.14.0",
+    "nodemon": "^3.1.9",
+    "typescript-eslint": "^8.20.0"
   }
 }
